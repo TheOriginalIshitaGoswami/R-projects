@@ -43,12 +43,19 @@ The progress in the context of SDG Goal 11: Sustainable Cities and Communities h
 
 # REFERENCES 
 Appsilon. (n.d.). Tutorial: Create and customize a simple R Shiny dashboard [Video]. YouTube. Retrieved March https://www.youtube.com/watch?v=41jmGq7ALMY
+
 FreeCodeCamp.org. (n.d.). R Shiny for data science tutorial – Build interactive data-driven web YouTube. Retrieved https://www.youtube.com/watch?v=9uFQECk30kA March 15, 2025.
+
 National Data & Analytics Platform (NDAP), NITI Aayog. (n.d.). Dataset 7365. Government of India. Retrieved March 15, 2025, from https://ndap.niti.gov.in/dataset/7365
+
 NITI Aayog. (2019). SDG mapping document (p. 34). Government of India. Retrieved from https://www.niti.gov.in/sites/default/files/2019-01/SDGMapping-Document-NITI_0.pdf
+
 Observer Research Foundation (ORF). (n.d.). Sustainable Development Goal 11 and India. Retrieved March 15, 2025, from https://www.orfonline.org/expert-speak/sustainable development-goal-11-and-india
+
 SivaKV2. (n.d.). EPGDA2_InteractiveApps2 [GitHub repository]. GitHub. Retrieved March 15, 2025, from https://github.com/sivakv2/EPGDA2_InteractiveApps2
+
 United Nations General Assembly. (1987). Report of the World Commission on Environment and Development: Our common future (A/42/427, p. 43). United Nations. Retrieved from https://sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf
+
 United Nations Statistics Division. (n.d.). Sustainable Development Goals Data Portal. United Nations. Retrieved March 15, 2025, from https://unstats.un.org/sdgs/dataportal/database
 
 
