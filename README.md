@@ -1,8 +1,9 @@
-# R-projects
+# R-projects- SDG 11 and PMAY Dashboard
 This repository contains all my projects implemented in R, showcasing data analysis, statistical modeling, and practical applications.
 
 # R-SHINY DASHBOARD 
 BACKGROUND OF THE PROJECT 
+
 Sustainability, defined as "Development that meets the needs of the present generation without compromising the ability of Future Generations to meet their own needs" (United Nations General Assembly, 1987, p.43), is a current Global concern. The 17 Sustainable Development Goals were developed for the effective measurement of Sustainability across different dimensions. This report will primarily focus on one Sustainable Development Goal, 11— Sustainable Cities and Communities, in the context of India due to the relevance of the Goal in the Indian as well as Global context.
 
 # DATA AND VARIABLES
